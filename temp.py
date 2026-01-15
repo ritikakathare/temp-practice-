@@ -6,4 +6,4 @@ else:
     fahrenheit=(celsius*9/5)+32
 print("----------Temperature details------------")
 print("Celsius:",celsius)
-print("fahrenheit:",fahrenheit)
+print("Fahrenheit:",fahrenheit)
